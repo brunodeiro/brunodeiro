@@ -27,3 +27,4 @@
   ![Snake animation](https://github.com/brunodeiro/brunodeiro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
